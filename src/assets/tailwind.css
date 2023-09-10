@@ -1,0 +1,4 @@
+/* import basic necessity items */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
