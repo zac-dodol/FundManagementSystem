@@ -38,3 +38,9 @@ npm run dev
 ```sh
 npm run build
 ```
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/e6d46f9e-fa87-481d-aef5-123ede03745f)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/059e808b-138b-4782-8d7f-13b073bd214d)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/e709bd90-1721-4dda-b059-acae78f436ef)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/7bbdde7e-0690-4e84-9b7f-ea633d169141)
+
+
