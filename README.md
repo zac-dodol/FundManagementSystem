@@ -38,9 +38,15 @@ npm run dev
 ```sh
 npm run build
 ```
+Web View
 ![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/e6d46f9e-fa87-481d-aef5-123ede03745f)
 ![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/059e808b-138b-4782-8d7f-13b073bd214d)
 ![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/e709bd90-1721-4dda-b059-acae78f436ef)
 ![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/7bbdde7e-0690-4e84-9b7f-ea633d169141)
 
+Mobile View
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/b8914f24-5ade-49d4-86fc-fa3c6c506181)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/fd7775a6-a7ad-47c0-b56b-0851fff51baf)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/0a4e1fc8-e057-4da3-afb1-f3a7960cbe5a)
+![image](https://github.com/zac-dodol/FundManagementSystem/assets/46713066/1fa803ad-5304-474c-9b7d-b40637e26de7)
 
